@@ -23,7 +23,7 @@ const Introduce = () => {
           <h1>João Knisspell</h1>
           <span>Desenvolvedor Web</span>
           <p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unisinos, estou em desenvolvimento e pretendo me tornar Desenvolvedor Full-Stack. Possuo experiência com as seguintes tecnologias: HTML, CSS, JavaScript, Firebase, GIT e ReactJS.</p>
-          <Link className="cv-btn" to="https://1drv.ms/b/s!AqoeCBhiSSxAqGwYadDj20JbJyCd?e=iEBqoe" target='blank'>Currículo</Link>
+          <Link className="cv-btn" to="https://1drv.ms/b/s!AqoeCBhiSSxAtXw925AzkTteE4Ka?e=YVfaHW" target='blank'>Currículo</Link>
         </div>
       {/* </DefaultContainer> */}
     </IntroduceContainer>
